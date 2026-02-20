@@ -1,6 +1,8 @@
 # Tap-Ninja-Bot
 Tap Ninja Bot/Script/Auto Clicker made using AutohotkeyV2 
 This bot was made with Tap Ninja in 1920x1080 Windowed Borderless mode.
+TapNinjaBot.ahk can be used if you have AutoHotkeyV2 installed on your computer, you need the .ini file in the same directory as the script.
+TapNinjaBot.exe is for users that do not want to install AutoHotkeyV2, the ini file still needs to be in the same directory
 
 I have only made it as far as Shieldbearer, Shuriken Vortex has not been unlocked for me yet.
 
